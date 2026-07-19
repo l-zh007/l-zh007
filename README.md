@@ -33,9 +33,9 @@
 
 <p align="center">
   <img
-    width="720"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1100&color=6E7681&center=true&vCenter=true&width=720&lines=Spatial+transcriptomics+and+single-cell+omics;Multi-omics+integration+and+biological+deep+learning;Reproducible+workflows+for+computational+biology;Open-source+scientific+software+development"
-    alt="Research interests"
+    width="760"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1100&color=6E7681&center=true&vCenter=true&width=760&lines=Building+reproducible+workflows+for+spatial+omics;Developing+open-source+tools+for+computational+biology;Exploring+multi-omics+integration+and+deep+learning+for+genomics"
+    alt="Research and development interests"
   />
 </p>
 
@@ -44,30 +44,38 @@
 ## About Me
 
 - **Jack** · Bioinformatics undergraduate based in Guangzhou, China
-- Interested in **spatial transcriptomics**, **single-cell omics**, **multi-omics integration**, and **deep learning**
-- Developing reproducible computational workflows for biological data analysis
-- Exploring open-source software engineering for bioinformatics research
+- Interested in computational methods for **spatial transcriptomics**, **single-cell omics**, and **multi-omics integration**
+- Developing reproducible workflows and open-source software for biological data analysis
 
 ---
 
 ## Research Interests
 
 <p align="center">
+  <sub>
+    Computational methods for reproducible, scalable, and biologically interpretable omics analysis
+  </sub>
+</p>
+
+<p align="center">
   <img
-    src="https://img.shields.io/badge/Spatial_Transcriptomics-4C78A8?style=for-the-badge"
+    src="https://img.shields.io/badge/Spatial%20Transcriptomics-4C78A8?style=flat-square"
     alt="Spatial transcriptomics"
   />
   <img
-    src="https://img.shields.io/badge/Single--Cell_Omics-59A14F?style=for-the-badge"
+    src="https://img.shields.io/badge/Single--Cell%20Omics-59A14F?style=flat-square"
     alt="Single-cell omics"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://img.shields.io/badge/Multi--Omics_Integration-F28E2B?style=for-the-badge"
+    src="https://img.shields.io/badge/Multi--Omics%20Integration-7C3AED?style=flat-square"
     alt="Multi-omics integration"
   />
   <img
-    src="https://img.shields.io/badge/Biological_Deep_Learning-E15759?style=for-the-badge"
-    alt="Biological deep learning"
+    src="https://img.shields.io/badge/Deep%20Learning%20for%20Genomics-E15759?style=flat-square"
+    alt="Deep learning for genomics"
   />
 </p>
 
@@ -77,7 +85,7 @@
 
 ### [Spatialsnake](https://github.com/l-zh007/spatialsnake)
 
-**Spatialsnake** is an open-source Snakemake workflow for reproducible spatial transcriptomics analysis. It provides a structured framework for organizing spatial omics data, executing standardized analytical procedures, and supporting downstream biological exploration.
+**Spatialsnake** is an open-source Snakemake workflow for reproducible spatial transcriptomics analysis. It organizes platform-specific inputs into modular analytical workflows covering data ingestion, quality control, preprocessing, clustering, annotation support, and downstream biological exploration.
 
 <p align="center">
   <a href="https://github.com/l-zh007/spatialsnake">
@@ -104,12 +112,12 @@
 
 ## Technical Stack
 
-### Languages and Scientific Computing
+### Programming Languages
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,r,bash&perline=3"
-    alt="Programming languages"
+    src="https://skillicons.dev/icons?i=java,python,r&perline=3"
+    alt="Java, Python, and R"
   />
 </p>
 
@@ -117,19 +125,19 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,githubactions&perline=6"
-    alt="Development and workflow tools"
+    src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&perline=5"
+    alt="Linux, Git, GitHub, Docker, and Visual Studio Code"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Snakemake-Workflow_Management-047D5B?style=flat-square"
-    alt="Snakemake"
+    src="https://img.shields.io/badge/Snakemake-Workflow%20Management-047D5B?style=flat-square"
+    alt="Snakemake workflow management"
   />
   <img
-    src="https://img.shields.io/badge/Conda-Environment_Management-44A833?style=flat-square&logo=anaconda&logoColor=white"
-    alt="Conda"
+    src="https://img.shields.io/badge/Bioconda-Reproducible%20Package%20Distribution-44A833?style=flat-square&logo=anaconda&logoColor=white"
+    alt="Bioconda package distribution"
   />
 </p>
 
@@ -137,33 +145,24 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/SpatialData-Spatial_Omics-7C3AED?style=flat-square"
+    src="https://img.shields.io/badge/SpatialData-Spatial%20Omics-7C3AED?style=flat-square"
     alt="SpatialData"
   />
   <img
-    src="https://img.shields.io/badge/Scanpy-Single--Cell_Analysis-3178C6?style=flat-square"
+    src="https://img.shields.io/badge/Scanpy-Single--Cell%20Analysis-3178C6?style=flat-square"
     alt="Scanpy"
   />
   <img
-    src="https://img.shields.io/badge/Squidpy-Spatial_Analysis-3A5A40?style=flat-square"
+    src="https://img.shields.io/badge/Squidpy-Spatial%20Analysis-3A5A40?style=flat-square"
     alt="Squidpy"
   />
   <img
-    src="https://img.shields.io/badge/Seurat-Single--Cell_Analysis-276DC3?style=flat-square&logo=r&logoColor=white"
+    src="https://img.shields.io/badge/Seurat-Single--Cell%20Analysis-276DC3?style=flat-square&logo=r&logoColor=white"
     alt="Seurat"
   />
   <img
-    src="https://img.shields.io/badge/scverse-Omics_Ecosystem-0072B1?style=flat-square"
+    src="https://img.shields.io/badge/scverse-Omics%20Ecosystem-0072B1?style=flat-square"
     alt="scverse"
-  />
-</p>
-
-### Deep Learning
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2"
-    alt="Deep learning frameworks"
   />
 </p>
 
