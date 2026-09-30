@@ -19,6 +19,12 @@
       alt="Spatialsnake on PyPI"
     />
   </a>
+  <a href="https://anaconda.org/bioconda/spatialsnake">
+    <img
+      src="https://anaconda.org/bioconda/spatialsnake/badges/version.svg"
+      alt="Spatialsnake Bioconda version"
+    />
+  </a>
   <a href="https://spatialsnake-tutorial.readthedocs.io/">
     <img
       src="https://img.shields.io/badge/Documentation-Read%20the%20Docs-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white"
@@ -85,7 +91,7 @@
 
 ### [Spatialsnake](https://github.com/l-zh007/spatialsnake)
 
-**Spatialsnake** is an open-source Snakemake workflow for reproducible spatial transcriptomics analysis. It organizes platform-specific inputs into modular analytical workflows covering data ingestion, quality control, preprocessing, clustering, annotation support, and downstream biological exploration.
+**Spatialsnake** is an open-source, user-friendly Linux command-line application for reproducible spatial transcriptomics analysis. It uses SpatialData and Snakemake to organize platform-specific inputs into modular analyses covering data ingestion, quality control, preprocessing, clustering, annotation support, and downstream biological exploration.
 
 <p align="center">
   <a href="https://github.com/l-zh007/spatialsnake">
@@ -104,6 +110,18 @@
     <img
       src="https://img.shields.io/badge/Package-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white"
       alt="Spatialsnake package"
+    />
+  </a>
+  <a href="https://anaconda.org/bioconda/spatialsnake">
+    <img
+      src="https://anaconda.org/bioconda/spatialsnake/badges/platforms.svg"
+      alt="Spatialsnake supported platforms"
+    />
+  </a>
+  <a href="https://anaconda.org/bioconda/spatialsnake">
+    <img
+      src="https://anaconda.org/bioconda/spatialsnake/badges/downloads.svg"
+      alt="Spatialsnake Bioconda downloads"
     />
   </a>
 </p>
